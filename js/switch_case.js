@@ -217,9 +217,21 @@ switch(Distric) {
   default:
     Famous_for = "error";
 }
-console.log("Famous_for", Famous_for)
+// console.log("Famous_for", Famous_for)
 
 
 // git remote add origin https://github.com/Shivagami3006/checkjs.git
 // git branch -M main
 // git push -u origin main
+
+
+var a=80.01,b=80.00;
+
+if(a==b){
+  console.log("tru")
+
+}
+console.log("f")
+
+var c=1,b="true";
+console.log(a==b);
