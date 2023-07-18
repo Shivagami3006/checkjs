@@ -77,14 +77,17 @@ let student = { name: "siva",
   //  for(prop in student){
   //   console.log(`${prop}:${student[prop]}`)
   //  }
-   for(key in student){
-    console.log(`${key}:${student[key]}`)
-   }
+//    for(key in student){
+//     console.log(`${key}:${student[key]}`)
+//    }
 
-let Animals = ['cat','rat','cow','rabbit'];
-let i = 0;
-for(;i in Animals;i++){
-  console.log(`Animal ${i} :${Animals[i]}`)
-}
+// let Animals = ['cat','rat','cow','rabbit'];
+// let i = 0;
+// for(;i in Animals;i++){
+//   console.log(`Animal ${i} :${Animals[i]}`)
+// }
+
+
+
 
 
